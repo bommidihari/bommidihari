@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Haipriya Bommidi
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Power Bi and Python
+-    I'm skilled in Excel, SQL, Power BI and Google Analytics
+- 🌱 I’m currently Python
 - 💞️ I’m looking to for a job in Data Analyst role
 - 📫 You can reach me on LinkedIn through www.linkedin.com/in/haripriya-bommidi-066b6b188
 - 😄 Pronouns: she/her
